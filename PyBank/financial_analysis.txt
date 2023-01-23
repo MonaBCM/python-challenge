@@ -4,7 +4,7 @@
 
     Total Months: 86
     Total Profits: $22564198
-    Average Change: $8311
+    Average Change: ($-8311)
     Greatest Increase in Profits:  ($1825558)
-    Greatest Decrease in Profits:  ($-1862002)
+    Greatest Increase in Profits:  ($-1862002)
 ----------------------------------------------------------
